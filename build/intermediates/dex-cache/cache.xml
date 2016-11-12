@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_4662f9ccdd61618ec718979551191d440fc33ad1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_0ab6127bdd6ea706b0517b85a54a8b745cd632bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_9b138d103393e19d1ac85157f5617bc0b08bb970.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_232b9c1b2b4749c957b028adf37265210e36b743.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_09decc1d0c14d0dc9dc83b3b917051a6d0303cd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_89d7bfdec25a852dd4f1f0f8636a1a3410fa7c34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_8b5eed474e608528cdb50adef130f82523fb6256.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_1b1e1856f42d07cdf5f3e6c963abcb3de1c12880.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_3c6f0c94e55dbaf5d65fa31752ff453a522b2b3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_e18ff06e60f127c9e01772fff145219314df9e42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_87e4844d55ce35e9be777d74c046a303e96e7cda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\biro\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_59837ef059d2128c354492ca951964511aefb706.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_87e4844d55ce35e9be777d74c046a303e96e7cda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_06195ae2f99af77cb6189060b01cae267cfe4736.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_3c6f0c94e55dbaf5d65fa31752ff453a522b2b3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="100467e09e50856f9dc1eda324655d1215b2bccd">
+        <dex dex="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_25cf9632ab5c526b24bd491f6cad6e6b0a8e681c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\biro\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_f90577b2f328f80cf6a153ab6c43ddc74a00bbd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_8b5eed474e608528cdb50adef130f82523fb6256.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\exploded-aar\com.clough.android.androiddbviewer\androiddbviewer\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c77093ca620539f86250497df2219804d6b232f2">
+        <dex dex="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\pre-dexed\debug\com.clough.android.androiddbviewer-androiddbviewer-1.0.0_bbc022c79f59eabae1bb5128dcb1fa3753c9b5e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_3004ba970abe6ba5bdab6ffbf0f0f208da2e7576.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_c223a8af78fe580c8ecd57ec4e62856e1d7e7625.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_af2a538cb6ad5b7328bbcf947e9df47397ee460b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_0ab6127bdd6ea706b0517b85a54a8b745cd632bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_4f5165951ec53ba6acbeb108995f133e3acb8039.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_89d7bfdec25a852dd4f1f0f8636a1a3410fa7c34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_09decc1d0c14d0dc9dc83b3b917051a6d0303cd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_232b9c1b2b4749c957b028adf37265210e36b743.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_4662f9ccdd61618ec718979551191d440fc33ad1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_1b1e1856f42d07cdf5f3e6c963abcb3de1c12880.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\biro\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_59837ef059d2128c354492ca951964511aefb706.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_3004ba970abe6ba5bdab6ffbf0f0f208da2e7576.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a3483ab3194295609260a44a6be262a82a7ec906">
+        <dex dex="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\pre-dexed\debug\instant-run_12b11a98525a0b5d02132dece779a6ab548e5310.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_e18ff06e60f127c9e01772fff145219314df9e42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_06195ae2f99af77cb6189060b01cae267cfe4736.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\exploded-aar\com.clough.android.androiddbviewer\androiddbviewer\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c77093ca620539f86250497df2219804d6b232f2">
+        <dex dex="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\pre-dexed\debug\com.clough.android.androiddbviewer-androiddbviewer-1.0.0_bbc022c79f59eabae1bb5128dcb1fa3753c9b5e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_4f5165951ec53ba6acbeb108995f133e3acb8039.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_c223a8af78fe580c8ecd57ec4e62856e1d7e7625.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\biro\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_f90577b2f328f80cf6a153ab6c43ddc74a00bbd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_af2a538cb6ad5b7328bbcf947e9df47397ee460b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\biro\AndroidStudioProjects\MovieApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_9b138d103393e19d1ac85157f5617bc0b08bb970.jar" />
+    </item>
+
+</items>

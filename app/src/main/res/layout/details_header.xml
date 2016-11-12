@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+
+    <TextView
+
+        android:id="@+id/tilteText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#242422"
+        android:fontFamily="serif"
+        android:text="Game of thrones"
+        android:textAlignment="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Title"
+        android:textStyle="normal|bold" />
+
+    <ImageView
+        android:id="@+id/movieImage"
+        android:layout_width="170dp"
+        android:layout_height="300dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/tilteText"
+        android:layout_marginTop="20dp"
+        android:scaleType="fitXY" />
+
+
+    <TextView
+        android:id="@+id/overviewText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/movieImage"
+        android:fontFamily="Wingdings"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:paddingTop="10dp"
+        android:text="sadbdghdshgdsadyugfyusdguasgdyuagsdygasuydgyusgyugqywygdysadugaysugdyugua"
+        android:textAllCaps="false"
+        android:textAppearance="@style/TextAppearance.AppCompat"
+        android:textColor="#b3ffff"
+        android:textSize="12sp"
+        android:textStyle="normal|italic" />
+
+
+    <TextView
+        android:id="@+id/yearText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/movieImage"
+        android:layout_marginLeft="21dp"
+        android:layout_marginStart="21dp"
+        android:layout_marginTop="40dp"
+        android:layout_toEndOf="@+id/movieImage"
+        android:layout_toRightOf="@+id/movieImage"
+        android:fontFamily="casual"
+        android:text="2016/10/11"
+        android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+        android:textSize="22sp"
+        android:textStyle="normal|italic" />
+
+
+    <TextView
+        android:id="@+id/voteText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/yearText"
+        android:layout_marginLeft="21dp"
+        android:layout_marginTop="3dp"
+        android:layout_toRightOf="@+id/movieImage"
+        android:fontFamily="casual"
+        android:text="10/10"
+        android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+        android:textColor="#ffff66"
+        android:textSize="24sp"
+        android:textStyle="normal|italic" />
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/voteText"
+        android:layout_marginLeft="170dp"
+        android:layout_marginTop="15dp"
+        android:id="@+id/makeAssFav"
+        android:text="Mark As Favourties"
+        style="@style/Widget.AppCompat.Button.Small"
+        android:fontFamily="sans-serif" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#fff"
+        android:id="@+id/view"
+        android:layout_below="@+id/overviewText"
+        android:layout_marginTop="10dp"
+        >
+
+    </View>
+
+</RelativeLayout>

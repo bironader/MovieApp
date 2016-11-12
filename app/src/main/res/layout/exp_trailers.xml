@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <Button
+        android:text="Play Trailer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/playButton"
+        android:layout_marginTop="10dp"
+        style="@style/Widget.AppCompat.Button.Small"
+        android:layout_toRightOf="@+id/trailerText">
+
+    </Button>
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:id="@+id/trailerText"
+        android:layout_marginLeft="30dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Small"
+        android:text="sdajashjkhaskjdhaksjhdkjashdkjahsdkjhaskdjhakjhdsjkahdkjahdjashdkjahdkasjhdkjahsdjahskhadskjhdskjhskadhkjashkdashkdjajkasdasdaasdasdasdsadsadsaddasdsaadsadsadsasasasdasadsdasdasdasadsadasddasdasdasdasadsdshk"
+        android:layout_width="160dp"
+        android:layout_alignBaseline="@+id/playButton"
+        android:layout_alignBottom="@+id/playButton"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textSize="15dp"
+        android:layout_marginStart="30dp"
+        android:textStyle="normal|bold"
+        />
+
+</RelativeLayout>
